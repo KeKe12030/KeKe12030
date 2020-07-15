@@ -16,3 +16,6 @@
 ### 🖇  WebSites:
 - MCPlugin论坛 <https://bbs.mcplugin.cn>
 - VioletTec's Blog <https://blog.mcplugin.cn>
+
+---
+>👇👇👇好了好了，README不想写太长，来了的话，就给下面的项目点个star吧⭐ 👇👇👇
