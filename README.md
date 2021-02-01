@@ -4,8 +4,8 @@
 - 🏫 在校学生 佛系开发 在线摸鱼
 - 💻 Coding.......
 
-![](https://raw.githubusercontent.com/KeKe12030/github-stats/4439acdcf62d853e8c54b7a15507c0a74a6db07b/generated/languages.svg)
-![](https://raw.githubusercontent.com/KeKe12030/github-stats/4439acdcf62d853e8c54b7a15507c0a74a6db07b/generated/overview.svg)
+![](https://github.com/KeKe12030/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/KeKe12030/github-stats/blob/master/generated/overview.svg)
 
 ---
 ### 📝联系方式：
