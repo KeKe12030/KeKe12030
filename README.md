@@ -6,6 +6,7 @@
 
 ![](https://github.com/KeKe12030/github-stats/blob/master/generated/languages.svg)
 ![](https://github.com/KeKe12030/github-stats/blob/master/generated/overview.svg)
+![](https://github-readme-stats.vercel.app/api?username=KeKe12030&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false)
 
 ---
 ### 📝联系方式：
