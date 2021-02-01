@@ -3,9 +3,9 @@
 ### 个人介绍 🗿：
 - 🏫 在校学生 佛系开发 在线摸鱼
 - 💻 Coding.......
-- 📝 不喜欢水博客，喜欢发长文
-- 🕊  喜欢咕咕咕
-- 🔒 GayHub里还有一点私有的好项目，就是不公开（狗头）
+
+![](https://raw.githubusercontent.com/KeKe12030/github-stats/4439acdcf62d853e8c54b7a15507c0a74a6db07b/generated/languages.svg)
+![](https://raw.githubusercontent.com/KeKe12030/github-stats/4439acdcf62d853e8c54b7a15507c0a74a6db07b/generated/overview.svg)
 
 ---
 ### 📝联系方式：
@@ -27,6 +27,3 @@
   https://zhuanlan.zhihu.com/p/182553920
 
 
-
----
->👇👇👇好了好了，README不想写太长，来了的话，就给下面的项目点个star吧⭐ 👇👇👇
