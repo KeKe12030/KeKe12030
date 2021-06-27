@@ -10,7 +10,7 @@
 ---
 ### 📝联系方式：
 - 📡 QQ：595585575
-- 📧 E-mail：mail#violettec.cn（#换为@）
+- 📧 E-mail：mail@violettec.cn
 
 ---
 ### 🖇  WebSites:
