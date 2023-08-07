@@ -10,12 +10,7 @@
 ---
 ### 📝联系方式：
 - 📡 QQ：595585575
-- 📧 E-mail：mail@violettec.cn
-
----
-### 🖇  WebSites:
-- MCPlugin论坛 <https://bbs.mcplugin.cn>
-- VioletTec's Blog <https://blog.mcplugin.cn>
+- 📧 E-mail：mail@ethanwu.cn
 
 ---
 
